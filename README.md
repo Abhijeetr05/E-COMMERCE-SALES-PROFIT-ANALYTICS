@@ -59,6 +59,6 @@ To provide a comprehensive view of e-commerce performance by:
 - Dataset – E-commerce sample dataset
 
 ## Dashboard Preview
-<img width="1374" height="695" alt="Page 1" src="https://github.com/user-attachments/assets/8a4d7a36-af7c-4742-9be6-db8032fae324" />
---
-<img width="1461" height="723" alt="Page 2" src="https://github.com/user-attachments/assets/e8707d9e-8782-4554-bd7a-01f3a14ce527" />
+<img width="1421" height="718" alt="page1" src="https://github.com/user-attachments/assets/ada0643f-fac0-428b-a532-dcfdc956838a" />
+<img width="1424" height="714" alt="page2" src="https://github.com/user-attachments/assets/8807c51b-c60d-4c01-a32f-57debed3156a" />
+
